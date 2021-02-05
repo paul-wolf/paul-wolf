@@ -12,7 +12,7 @@ Working on
 
 * Better protocols for web frameworks.
 
-* Web site accessability in the sense of the [W3C WAI](https://www.w3.org/WAI/fundamentals/accessibility-intro/).
+* Web site accessibility according to [WCAG 2.1](https://www.w3.org/TR/WCAG21/)
 
 Some articles I've authored:
 
