@@ -16,7 +16,7 @@ Working on
 
 Some articles I've authored:
 
-[Python Coding Guidelines](https://github.com/paul-wolf/python_coding/blob/main/python_guidelines.md)
+[Python Coding Guidelines](https://python-coding-guidelines.readthedocs.io/en/latest/)
 
 This is a set of guidelines to make Python code more readable, easier
 to maintain and easier to reuse.
