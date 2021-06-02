@@ -21,6 +21,11 @@ Some articles I've authored:
 This is a set of guidelines to make Python code more readable, easier
 to maintain and easier to reuse.
 
+[Simple Rules for Class Design](https://dev.to/paulwolf/class-design-in-python-simple-rules-for-managing-complexity-3eka)
+
+A formula that can be applied almost mechanically to simplify class design in
+Python, making your code easier to read, change and test.
+
 [Modern Python Logging](https://medium.com/@paul.wolf/modern-python-logging-9cab0d07a2ed)
 
 This is an opinionated view of how logging should be done for Python applications.
